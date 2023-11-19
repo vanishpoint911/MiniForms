@@ -1,0 +1,22 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    background-image: url(a2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120%;  
+    padding: 20px;
+    border-style: groove;
+    border: 100px;
+
+}
+
+
+.boxContainer{
+    width: 300px;
+    height: 350px;
+    border: solid rgb(0, 0, 0) 2px;
+    border-radius: 10px;
+    padding: 30px 0px 0px 30px;
+}
